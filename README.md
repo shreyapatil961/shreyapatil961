@@ -1,6 +1,7 @@
 <img src="15709117.jpg" alt="E404">
 
 # 💫About Me :
+Hii.. I am Shreya Patil, the Passonate Software Developer from the India 
 I am Currently Working on the Furniture Shop Management System which is Web Application
 
 ## 🌐Socials
